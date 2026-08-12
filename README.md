@@ -17,6 +17,7 @@ families seeking stress relief and beauty care.
 -about
 -contact
 -enquiries
+-services
 
 ## Key Performance Indicators (KPIs)
 -Monthly online booking numbers.
