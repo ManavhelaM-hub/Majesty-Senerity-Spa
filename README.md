@@ -1,7 +1,7 @@
 # Majesty-Senerity-Spa
 ST10527007 Manavhela Mufhatutshedzwa
 ## Project Overview
-Majesty Serenity Spa is a boutique wellness centre based in Tshwane, founded in 2026 to 
+Majesty Serenity Spa is a boutique wellness centre based in Tshwane, founded in 2026 by Mufhatutshedzwa Manavhela to 
 provide holistic beauty and relaxation services. It's mission is to promote self-care and wellness 
 through affordable spa treatments, while its vision is to become the leading local destination for 
 relaxation and rejuvenation. The spa’s target audience includes professionals, students, and 
