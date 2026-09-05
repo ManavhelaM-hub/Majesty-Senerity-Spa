@@ -7,6 +7,10 @@ through affordable spa treatments, while its vision is to become the leading loc
 relaxation and rejuvenation. The spa’s target audience includes professionals, students, and 
 families seeking stress relief and beauty care.
 
+## Strategic Context
+Market Positioning: Competes with larger wellness chains by offering boutique, personalised experiences. Differentiates through affordability and holistic care.
+Target Audience Insight: Urban professionals face high stress levels; students seek affordable wellness; families value accessible relaxation options.
+
 ## Website Goals and Objectives
 -Increase online bookings by 40% within the first year.
 -Showcase services and promotions to attract new customers.
