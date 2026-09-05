@@ -1,5 +1,6 @@
 # Majesty Senerity Spa
 ST10527007 Manavhela Mufhatutshedzwa
+
 ## Project Overview
 Majesty Senerity Spa is a boutique wellness centre based in Tshwane, founded in 2026 by Mufhatutshedzwa Manavhela to 
 provide holistic beauty and relaxation services. It's mission is to promote self-care and wellness 
@@ -14,7 +15,18 @@ Target Audience Insight: Urban professionals face high stress levels; students s
 ## Website Goals and Objectives
 -Increase online bookings by 40% within the first year.
 -Showcase services and promotions to attract new customers.
+
 -Build customer loyalty through testimonials and wellness blog content
+· Increase Online Bookings: Implement a secure and intuitive booking form to reduce reliance on phone calls and walkins.
+·  Promote Services & Packages: Highlight facial treatments, massage therapy, nail care, and wellness packages with detailed descriptions and visuals.
+·  Enhance Customer Engagement: Provide a blog section with wellness tips and seasonal promotions to encourage repeat visits.
+·  Build Brand Credibility: Showcase testimonials and reviews to establish trust and attract new clients.
+·  Improve Accessibility: Ensure the website is responsive across devices and optimised for search engines
+. Provide Information 24/7: Operating hours, location, services, and FAQs available anytime. to reach a wider audience.
+
+## Business Impact
+Revenue Growth: A 40% increase in bookings could translate into an additional R8,000–R12,000 monthly revenue, depending on service mix.
+Cost Efficiency: Online booking reduces reliance on phone calls and walkins, saving staff time and improving customer convenience
 
 ## Sitemap
 -home
@@ -29,6 +41,12 @@ Target Audience Insight: Urban professionals face high stress levels; students s
 -Engagement through blog views and newsletter sign-ups.
 -Positive customer feedback collected via online reviews.
 
+## Proposed Features and Functionality
+-Online booking form with client-side validation.
+-Service pages with images and descriptions.
+-Customer testimonials and reviews section.
+-Responsive design for mobile and desktop users.
+ 
 ## Timeline and Milestones
 -Weeks 1–2: Content research and sitemap.
 -Weeks 3–4: HTML structure and initial design.
