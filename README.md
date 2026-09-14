@@ -95,5 +95,9 @@ W3Schools (2026) HTML Forms Tutorial. W3Schools. Available at: https://www.w3sch
 Adams, J. (2024) ‘Digital transformation in business’, Business Review Online. Available at: https://www.businessreviewonline.com/digital-transformation (Accessed: 29 July 2026).
 Chen, S. (2024) ‘Climate change policy updates’, Environmental Affairs Network. Available at: https://www.environmentalaffairs.org/climate-policy (Accessed: 29 July 2026).
 National Archive (2024) ‘Digitized historical documents’, National Archive. Available at: https://www.nationalarchive.org/documents (Accessed: 29 July 2026).
+ Mozilla Developer Network (MDN). (2026). *HTML: HyperText Markup Language*. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML [Accessed 14 September 2026].
+W3Schools. (2026). *HTML and CSS Tutorials*. Available at: https://www.w3schools.com [Accessed 14 September 2026].
+ Canva. (2026). *Design Templates and Visual Assets*. Available at: https://www.canva.com [Accessed 14 September 2026].
+ Independent Institute of Education (IIE) Rosebank College. (2026). *WEDE5020 Course Materials*. Johannesburg: IIE Rosebank College.
 
 
