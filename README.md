@@ -88,11 +88,33 @@ Added contact form with name, surname, and message fields.
 Included direct contact details (phone, email, address).
 Added assurance of 24-hour response time.
 
-### Technical Updates
- Linked external stylesheet (`css_assets/myfirststyles.css`) for consistent design.
- Improved semantic HTML structure with `<header>`, `<main>`, `<footer>`.
-  Added accessibility features (labels for form inputs, alt text for images).
- Integrated `tel:` and `mailto:` links for direct communication.
+###  CSS 
+
+Part 1 → Part 2 Updates
+
+#### Styling Enhancements
+- Applied **uniform background color** (`rgba(198, 166, 115, 0.483)`) across all pages for a cohesive look.
+- Standardized **header styling** with consistent padding and background (`#a28f6e`).
+- Improved **navigation menu styling** for better readability and alignment.
+- Added **responsive image handling** (`responsive_image` attribute) to ensure visuals adapt to different screen sizes.
+- Introduced **consistent padding and spacing** in `<main>` sections for balanced layouts.
+
+####  Media & Visuals
+- Embedded **responsive videos** with `controls` enabled for user interaction.
+- Ensured all images include **alt text** for accessibility compliance.
+- Adjusted image placement and sizing for improved visual hierarchy.
+
+#### Technical Improvements
+- Linked external stylesheet (`css_assets/myfirststyles.css`) to centralize design management.
+- Enhanced **semantic HTML structure** with `<header>`, `<main>`, `<footer>` styled consistently.
+- Improved **form styling** (labels, inputs, textareas) for better usability and accessibility.
+- Added **hover and focus states** for interactive elements (links, buttons) to improve user experience.
+
+#### Accessibility
+- Ensured **labels are linked to form inputs** for screen reader compatibility.
+- Added **alt attributes** to all images for descriptive accessibility.
+- Improved **color contrast** between text and background for readability.
+
 
 ## References  
 Spa Association of South Africa (2025) Trends in Wellness and Beauty. Spa Association of South Africa. Available at: https://www.spaassociation.co.za/trends (spaassociation.co.za in Bing) (Accessed: 29 July 2026).
