@@ -53,6 +53,42 @@ Cost Efficiency: Online booking reduces reliance on phone calls and walkins, sa
 -Weeks 5–6: CSS styling and responsive design.
 -Weeks 7–8: JavaScript functionality and testing.
 
+## Changelog
+Improved navigation consistency across all pages (index.html, about.html, services.html, enquiries.html, contact.html).
+Applied uniform background styling (rgba(198, 166, 115, 0.483)) for cohesive design.
+Added responsive images and videos to enhance user engagement.
+
+### About Page (about.html)
+Expanded sections: Mission, Vision, Values, Founder, Team, Facilities, Sustainability, Community Involvement.
+Added promotional video and new images.
+Included detailed founder biography (Mufhatutshedzwa Manavhela).
+Services Page (services.html)
+Added service descriptions with pricing table.
+Introduced yearly specials (Summer, Winter, Birthday, Couples, Referral, Holiday).
+Included walk-in services section with availability details.
+Embedded services video for visual appeal.
+
+### Home Page (index.html)
+Added hero banner image and welcome text.
+Expanded service table with descriptions.
+Listed operating hours and special offers.
+Added highlights section (luxury environment, expert therapists, personalized treatments).
+Included testimonials table with client feedback.
+
+### Enquiries Page (enquiries.html)
+Added enquiry form with required fields.
+Introduced online booking system with terms, conditions, and payment details.
+Added client testimonials submission form.
+Included gift voucher request form.
+Added FAQ section for common client questions.
+
+### Contact Page (contact.html)
+Expanded introductory text for customer support.
+Added contact form with name, surname, and message fields.
+Included direct contact details (phone, email, address).
+Added assurance of 24-hour response time.
+
+
 ## References  
 Spa Association of South Africa (2025) Trends in Wellness and Beauty. Spa Association of South Africa. Available at: https://www.spaassociation.co.za/trends (spaassociation.co.za in Bing) (Accessed: 29 July 2026).
 W3Schools (2026) HTML Forms Tutorial. W3Schools. Available at: https://www.w3schools.com/html/html_forms.asp (w3schools.com in Bing) (Accessed: 29 July 2026).
