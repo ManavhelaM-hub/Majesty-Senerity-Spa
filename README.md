@@ -88,6 +88,11 @@ Added contact form with name, surname, and message fields.
 Included direct contact details (phone, email, address).
 Added assurance of 24-hour response time.
 
+### Technical Updates
+ Linked external stylesheet (`css_assets/myfirststyles.css`) for consistent design.
+ Improved semantic HTML structure with `<header>`, `<main>`, `<footer>`.
+  Added accessibility features (labels for form inputs, alt text for images).
+ Integrated `tel:` and `mailto:` links for direct communication.
 
 ## References  
 Spa Association of South Africa (2025) Trends in Wellness and Beauty. Spa Association of South Africa. Available at: https://www.spaassociation.co.za/trends (spaassociation.co.za in Bing) (Accessed: 29 July 2026).
